@@ -1,0 +1,15 @@
+/*
+ * D2 coding (Korean) http://dev.naver.com/projects/d2coding/
+ */
+@font-face {
+    font-family: "D2 coding";
+    font-style: normal;
+    font-weight: 400;
+    src: url("D2Coding.woff2") format("woff2"), url("D2Coding.woff") format("woff");
+}
+@font-face {
+    font-family: "D2 coding";
+    font-style: normal;
+    font-weight: 700;
+    src: url("D2CodingBold.woff2") format("woff2"), url("D2CodingBold.woff") format("woff");
+}
